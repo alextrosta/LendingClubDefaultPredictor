@@ -1,7 +1,7 @@
 # LendingClubDefaultPredictor
-Using data from Lending Club, a model is trained to predict the probability of default of loan applicants. 
+Using data from Lending Club, a model is trained to predict the probability of default of loan applicants.  
 [Lending Club Data](https://www.lendingclub.com/info/download-data.action) is augmented using third party data from the United States 
-Labour Bureau and the International Labour Organization. 
+Labour Bureau and the International Labour Organization.  
 The result: some manually engineered features (Lat/Lon, proportion of college/associate degrees in zipcode area, unemployment rates of people with bachelor degrees or higher, and others) are found to be relevant in predicting the likelihood of default of Lending Club Loan Applicants. 
 
 # Introduction 
