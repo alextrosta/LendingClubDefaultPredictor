@@ -51,6 +51,3 @@ Set up [Anaconda](https://www.anaconda.com/download/), and [Jupyter](http://jupy
 
 [`tqdm`](https://pypi.org/project/tqdm/)
 
-# Overview
-
-See [Home_Credit_Default_Risk_Evaluation.pdf](./Home_Credit_Default_Risk_Evaluation.pdf) 
