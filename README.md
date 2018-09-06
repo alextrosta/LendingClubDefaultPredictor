@@ -7,7 +7,7 @@ The result: some manually engineered features (Lat/Lon, proportion of college/as
 # Introduction 
 Notebooks from participation in the Home Credit Default Risk Kaggle Competition. 
 
-Some information adapted from: 
+Very appreciative thanks to:
 
 https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction 
 
