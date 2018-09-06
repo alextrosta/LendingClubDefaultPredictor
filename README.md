@@ -7,27 +7,10 @@ The result: some manually engineered features (Lat/Lon, proportion of college/as
 # Introduction 
 Notebooks from participation in the Home Credit Default Risk Kaggle Competition. 
 
-Basically, all adapted from: 
+Some information adapted from: 
 
 https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction 
 
-https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering 
-
-https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering-p2 
-
-https://www.kaggle.com/willkoehrsen/automated-feature-engineering-basics 
-
-https://www.kaggle.com/willkoehrsen/tuning-automated-feature-engineering-exploratory 
-
-https://www.kaggle.com/willkoehrsen/introduction-to-feature-selection 
-
-https://www.kaggle.com/willkoehrsen/intro-to-model-tuning-grid-and-random-search 
-
-https://www.kaggle.com/willkoehrsen/automated-model-tuning 
-
-https://www.kaggle.com/willkoehrsen/model-tuning-results-random-vs-bayesian-opt/notebook 
-
-https://www.kaggle.com/jsaguiar/updated-0-792-lb-lightgbm-with-simple-features
 
 # Getting Started
 
