@@ -11,6 +11,7 @@ Very appreciative thanks to:
 
 https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction 
 
+https://www.kaggle.com/jsaguiar/updated-0-792-lb-lightgbm-with-simple-features
 
 # Getting Started
 
